@@ -1,4 +1,4 @@
-import { Button, Input, Alert } from "./libs/ui-lib/index.js";
+import { Button, Input, Alert } from "./libs/SubModulesProject/index.js";
 
 const app = document.getElementById("app");
 
